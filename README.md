@@ -6,3 +6,10 @@ Following Techniques are used:
 - SARIMA
 - Prophet
 - Long Short Term Memory (LSTM) Model
+
+
+# Project Structure
+
+1. **Data Collection:**
+   - Utilize the Yahoo Finance API to fetch historical stock data for the selected companies.
+  
